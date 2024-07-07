@@ -28,6 +28,3 @@ Este projeto marca o primeiro trabalho prático da faculdade, podendo conter eve
 
 **Tipos de Arquivos:**
 - jogoDaSenha - Implementação principal do projeto
-- jogoDaSenhaLoop - Versão do jogo em execução contínua (loop)
-- jogoDaSenhaC - Implementação principal do projeto com comentários
-- jogoDaSenhaLoopC - Versão do jogo em execução contínua (loop) com comentários
